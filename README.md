@@ -1,6 +1,6 @@
 ### ¡Hola, soy un estudiante de Ingeniería de Sistemas Computacionales!
 Este repositorio es mi espacio para compartir mis proyectos, apuntes, prácticas y cualquier otra cosa que me ayude a aprender y crecer como futuro ingeniero. 👋👨‍💻
-[![Cabecera-canal-youtube-futurista-azul-negro.png](https://i.postimg.cc/50hjcYLm/Cabecera-canal-youtube-futurista-azul-negro.png)](https://postimg.cc/tZz9Wgr1)
+[![Cabecera-canal-youtube-futurista-azul-negro.png](https://i.postimg.cc/50hjcYLm/Cabecera-canal-youtube-futurista-azul-negro.png)](https://github.com/JavieraAMartinez/EstructuradedatosJavier)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://Instagram.com/javiermtzmx)
 
