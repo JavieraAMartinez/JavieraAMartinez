@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola, soy un estudiante de Ingeniería de Sistemas Computacionales!
+Este repositorio es mi espacio para compartir mis proyectos, apuntes, prácticas y cualquier otra cosa que me ayude a aprender y crecer como futuro ingeniero. 👋👨‍💻
 
 <!--
 **JavieraAMartinez/JavieraAMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
