@@ -3,6 +3,9 @@ Este repositorio es mi espacio para compartir mis proyectos, apuntes, prácticas
 [![Cabecera-canal-youtube-futurista-azul-negro.png](https://i.postimg.cc/50hjcYLm/Cabecera-canal-youtube-futurista-azul-negro.png)](https://github.com/JavieraAMartinez/EstructuradedatosJavier)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://Instagram.com/javiermtzmx)
+[![Github Follow](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/JavieraAMartinez)
+
 
 
 <!--
